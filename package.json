@@ -1,0 +1,19 @@
+{
+  "name": "civicoder",
+  "version": "1.0.0",
+  "description": "basic",
+  "license": "ISC",
+  "author": "priyanshu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
